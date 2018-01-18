@@ -30,4 +30,6 @@ reboot
 .
 ```
 
+#### Super lazy? Heres a one line command..
+`curl https://raw.githubusercontent.com/TheFonix/SayNoToTheOVHKernal/master/quick.sh |sh `
 
